@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit&family=Mukta:wght@700&display=swap');
+h1,
+h2,
+h3,
+h4,
+p {
+    font-family: 'Kanit', sans-serif;
+    color: antiquewhite;
+}
+
+a.btn {
+    background-color: #ffa600;
+}
